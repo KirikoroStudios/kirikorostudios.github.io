@@ -6,7 +6,7 @@ bio: ''
 external-image: false
 picture: 'assets/images/logo.png'
 
-url: http://127.0.0.1:4000
+url: http://kirikorostudios.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -31,10 +31,9 @@ twitter: happypwn
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-#youtube: myyoutube
-#spotify: myspotify
-#github: mygithub
-#medium: medium
+# youtube: myyoutube
+# spotify: myspotify
+# medium: medium
 email: pontus.lindgren@kirikoro.com
 
 # do you want a larger site? change the option below

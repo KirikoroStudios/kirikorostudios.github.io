@@ -1,5 +1,5 @@
 ---
-title: "Bamsing - A prototype in 3 weeks"
+title: "Bamsing - Finishing A prototype in 3 weeks"
 layout: post
 date: 2016-05-07
 tag:

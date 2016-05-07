@@ -8,6 +8,7 @@ blog: true
 ---
 # Who am I?
 <div style='position:relative;padding-bottom:calc(100% / 1.78)'><iframe src='https://gfycat.com/ifr/PreciousBlondAplomadofalcon' frameborder='0' scrolling='no' width='100%' height='100%'
+style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 My name is Pontus Lindgren @happypwn on Twitter. I'm an indie game dev from Gothenburg in Sweden. Who just started my company Kirikoro Studios.
 
 # What am I making?

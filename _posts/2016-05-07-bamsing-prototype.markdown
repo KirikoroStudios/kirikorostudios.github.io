@@ -1,7 +1,7 @@
 ---
 title: "Bamsing - A prototype in 3 weeks"
 layout: post
-date: 2016-05-07 12:00
+date: 2016-05-07
 tag:
 - bamsing
 blog: true

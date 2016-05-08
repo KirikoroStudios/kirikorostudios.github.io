@@ -9,7 +9,7 @@ blog: true
 ---
 # Day 2
 Hi, My name is Pontus Lindgren @happypwn on Twitter.
-I'm 2 Days in on finishing this prototype of my game [Bamsing](https://bamsing.com).
+I'm 2 Days in on finishing this prototype of my game [Bamsing](http://bamsing.com).
 
 
 # What did I do on Day 2?

@@ -5,8 +5,8 @@ bio: ''
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/logo.png'
-
-url: http://kirikorostudios.github.io
+url: http://kirikoro.com
+# url: http://kirikorostudios.github.io
 
 permalink: /:title/
 

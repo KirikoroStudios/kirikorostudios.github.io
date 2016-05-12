@@ -1,5 +1,5 @@
 ---
-title: "Bamsing - Day 6: Gravity shift Mechanic"
+title: "Bamsing - Day 6: Gravity shift mechanic"
 layout: post
 date: 2016-05-12
 tag:

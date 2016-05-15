@@ -1,5 +1,5 @@
 ---
-title: "Bamsing - Day 9: One Big Statemachine"
+title: "Bamsing - Day 9: One Big State Machine"
 layout: post
 date: 2016-05-15
 tag:
@@ -14,10 +14,10 @@ I'm 9 Days in on [finishing this prototype](/bamsing-prototype) of my game [Bams
 # What did I do on Day 9?
 Yesterday I took a day off to celebrate my grandmothers 80th birthday. It was great!
 
-Today I have been doing some clean up work of the features I implemented recently. I have built my game as one big statemachine with substate machines.
-At the top level I have a statemachine with 3 states called Gameplay, Cutscene and Menu. Every object in my game that has a behavior
-that changes has another statemachine on them that listen to the top level statemachine and adjust their state and behavior accordingly.
-Some have more than 4 statemachines controlling different behaviors!
+Today I have been doing some clean up work of the features I implemented recently. I have built my game as one big state machine with sub-state machines.
+At the top level I have a state machine with 3 states called Gameplay, Cutscene and Menu. Every object in my game that has a behavior
+that changes has another state machine on them that listen to the top level state machine and adjust their state and behavior accordingly.
+Some have more than 4 state machines controlling different behaviors!
 
 It's works very well for me to organize this way, and I only have to worry about what is happening in a state rather than a whole
 stateless update loop with a lot of checks to get the desired behavior.

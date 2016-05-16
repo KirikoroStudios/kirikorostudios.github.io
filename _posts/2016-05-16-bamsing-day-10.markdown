@@ -1,0 +1,31 @@
+---
+title: "Bamsing - Day 10: Falling off mechanic"
+layout: post
+date: 2016-05-16
+tag:
+- bamsing
+- second week
+blog: true
+---
+# Day 10
+Hi, My name is Pontus Lindgren @happypwn on Twitter.
+I'm 10 Days in on [finishing this prototype](/bamsing-prototype) of my game [Bamsing](http://bamsing.com).
+
+# What did I do on Day 10?
+Today I built a mechanic for when the player falls of a platform or if the player uses the gravity shift mechanic to launch themselves into space or the horizon.
+
+<div style='position:relative;padding-bottom:calc(100% / 1.78)'><iframe src='https://gfycat.com/ifr/AnimatedAgonizingAmericanpainthorse' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+So now I have my basic mechanics to be able to test the puzzle mechanics I had in mind. And after testing it I feel like I have some problems.
+For one it's very hard to determine where you will land when you do a gravity shift from "top to bottom". So there I feel I might need to find a more natural way for the player
+to choose where to go. The mechanic I have now is also sort of all encompassing. There are not a lot of mechanics that can complement it, since it controls so much of the "world".
+I'm going to have to think a lot about how I go forward and try to tackle these problems. But it's really fun to get challenged by your game development!
+
+# How can you help?
+You can help by providing feedback, I would love to hear absolutely any thoughts you have about the game.
+
+And by following company in any of its outlets as well <3:
+
+ - [Email sign up](http://eepurl.com/b0UUhj)
+ - [Facebook](http://Facebook.com/kirikorostudios)
+ - [Twitter](http://twitter.com/happypwn)

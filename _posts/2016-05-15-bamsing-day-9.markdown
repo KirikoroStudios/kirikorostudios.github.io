@@ -4,7 +4,7 @@ layout: post
 date: 2016-05-15
 tag:
 - bamsing
-- first week
+- second week
 blog: true
 ---
 # Day 9

@@ -1,0 +1,29 @@
+---
+title: "Bamsing - Day 12: Why I am quitting Bamsing"
+layout: post
+date: 2016-05-18
+tag:
+- bamsing
+- second week
+blog: true
+---
+# Day 12
+Hi, My name is Pontus Lindgren @happypwn on Twitter.
+
+# What did I do on Day 12?
+After about 12 Days on working on this prototype I have decided to rethink the scope of the game. It's become clear to me that the interest in Bamsing in its current form is not big enough, considering the large scope of the development, to continue developing. That said I am in no way scrapping Bamsing. Right now I am taking all my game ideas and testing them against each other, in order to find one product that has a potential interest to merit its development scope. One of those ideas might be an iteration of Bamsing with more appeal and less development requirements.
+
+This does mean I am ending this blog series and instead I will shift focus towards prototyping more rapidly and finding something that will get people excited!
+
+I will continue blogging, just not everyday. And I am going to shift focus of my blogs towards pieces that I feel can give back to the indie dev community.
+
+And I do have some exciting stuff in The lab I just need to make it great before I reveal it!
+
+# How can you help?
+You can help by providing feedback, I would love to hear absolutely any thoughts you have about the game.
+
+And by following company in any of its outlets as well <3:
+
+ - [Email sign up](http://eepurl.com/b0UUhj)
+ - [Facebook](http://Facebook.com/kirikorostudios)
+ - [Twitter](http://twitter.com/happypwn)

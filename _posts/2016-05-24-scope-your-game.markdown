@@ -11,20 +11,22 @@ It can be hard to know which game, or project, is right for the time and resourc
 
 # Divide your game into elements and your elements into needs
 
-First we need to Divide our game into elements. I'm going to make it easy for us and use the categories already created and thought through in [The Art Game Design by Schell](http://www.amazon.com/Art-Game-Design-book-lenses/dp/0123694965). I highly recommend you to read this book if you have not already. Anyway, Schell breaks a game down into four categories:
+First we need to divide our game into elements. I'm going to make it easy for us and use the categories already created and thought through in [The Art Game Design by Schell](http://www.amazon.com/Art-Game-Design-book-lenses/dp/0123694965). I highly recommend you to read this book if you have not already. Anyway, Schell breaks a game down into four categories:
 Mechanics, Story, Aesthetics and Technology.
 
 So lets start with an easy example. Lets look at the elements that make up Tetris.
 First we begin with the mechanics.
 In Tetris, we can almost count the number of mechanics on one hand:
- - A mechanic where the player can adjust the speed and rotation of the currently dropping Tetris-tile
- - A mechanic where the tiles destroy themselves and give the player points in case of a matching line of tiletypes
- - A mechanic where there is always one tile falling on the screen.
+
+ * A mechanic where the player can adjust the speed and rotation of the currently dropping Tetris-tile
+ * A mechanic where the tiles destroy themselves and give the player points in case of a matching line of tiletypes
+ * A mechanic where there is always one tile falling on the screen.
 
 This is basicly all the mechanics we need for a MVP of Tetris.
 
 And If we do the same analysis of a more complex example, like The Legend Zelda: Ocarina of Time. We can see, even in the first mechanic example that we have a much larger set of mechanics in this game.
- - A character controller that acts differently based on gamestate, equipped inventory and playerinput.
+
+ * A character controller that acts differently based on gamestate, equipped inventory and playerinput.
 
 So in relation to eachother, Tetris has _low_ mechanical needs and Zelda has _high_ mechanical needs.
 
@@ -45,18 +47,20 @@ So after you've done your analysis what good can come from it? Well, compare the
 Here are some example of two recently popular games:
 
 Clustertruck:
-Mechanical needs = Low
-Story needs = Low
-Aesthetics = Low
-Technology = Medium
+
+ * Mechanical needs = Low
+ * Story needs = Low
+ * Aesthetics = Low
+ * Technology = Medium
 
 DOOM:
-Mechanical needs = High
-Story needs = High
-Aesthetics = High
-Technology = High
 
-Now, both games are made by very competent gamedevelopment companies, they just vary in size and resources, and so does their games. You really need to think about the scope of your project before you prototype it and before you commit to anything.
+ * Mechanical needs = High
+ * Story needs = High
+ * Aesthetics = High
+ * Technology = High
+
+Now, both games are made by very competent game development studios, they just vary in size and resources, and so does their games. You really need to think about the scope of your project before you prototype it and before you commit to anything.
 
 # For more content like this you can follow this dev blog in these ways
 

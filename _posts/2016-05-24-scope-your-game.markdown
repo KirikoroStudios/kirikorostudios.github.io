@@ -60,7 +60,7 @@ DOOM:
  * Aesthetics = High
  * Technology = High
 
-Now, both games are made by very competent game development studios, they just vary in size and resources, and so does their games. You really need to think about the scope of your project before you prototype it and before you commit to anything.
+Now, both games are made by very competent studios, they just vary in size and resources, and so does their games. You really need to think about the scope of your project before you prototype it and before you commit to anything.
 
 # For more content like this you can follow this dev blog in these ways
 

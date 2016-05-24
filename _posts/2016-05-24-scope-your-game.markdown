@@ -30,13 +30,22 @@ And If we do the same analysis of a more complex example, like The Legend Zelda:
 
 So in relation to eachother, Tetris has _low_ mechanical needs and Zelda has _high_ mechanical needs.
 
+![The Legend of Zelda: Ocarina of Time - Unused assets](/assets/images/Unused_Great_Fairy.jpg "The Legend of Zelda: Ocarina of Time - Unused assets")
+_The Legend of Zelda: Ocarina of Time - Unused assets_
+
+
 Then we move onto story.
 
 Now a game like Tetris does not even need a storyline to create the value it provides players, it is almost purely gameplay based. And a game like Zelda is very storydriven, even the mechanics and puzzles are integrated into the story. And just imagine all the plot, dialogue and characters and backstories needed to make a world as alive and vibrant as a zelda game.
 
 So even here, Tetris has _Low_ story needs and Zelda has _high_ story needs.
 
-Then we arrive at Aesthetics. Tetris has some requirements on Aesthetics. We need to be able to distinguish the Tetris tiles from eachother. And you might be thinking vibrant colors. But the version that made the Tetris franchise take off was actually a greyscale [game for the original gameboy](https://en.wikipedia.org/wiki/Tetris_(Game_Boy)). And again, in Zelda I'd argue that the characters, the environment, the sounds and the music is an essential part of the Zelda experience. We can again arrive at the conclusion that Tetris has _Low_ aesthetic needs while Zelda has _High_ aestethic needs.
+Then we arrive at Aesthetics. Tetris has some requirements on Aesthetics. We need to be able to distinguish the Tetris tiles from eachother. And you might be thinking vibrant colors. But the version that made the Tetris franchise take off was actually a greyscale [game for the original gameboy](https://en.wikipedia.org/wiki/Tetris_(Game_Boy)).
+
+![Tetris for Game Boy](/assets/images/Tetris-Gameboy-7.jpg "Tetris for Game Boy")
+_Tetris for Game Boy_
+
+And again, in Zelda I'd argue that the characters, the environment, the sounds and the music is an essential part of the Zelda experience. We can again arrive at the conclusion that Tetris has _Low_ aesthetic needs while Zelda has _High_ aestethic needs.
 
 And then technology. Tetris can be done with a 2d greyscale screen and two arrowbuttons. A game like Zelda Ocarina of Time needs 3d, color and a controller with an analog stick and several buttons.
 Here I wrote down Tetris as having _low_ Technical needs and Zelda with _Medium_ Technical needs. Note, a multiplayer game with a matchmakingservice, a client/server software architecture and a server client would land on the _High_ scale here in my opinion.

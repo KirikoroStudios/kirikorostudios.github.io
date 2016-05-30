@@ -11,6 +11,7 @@ It can be very beneficial to analyze the strengths and weaknesses of your game d
 
 # Identifying your competition
 In this article I'm going to use Overwatch thats in the [competition heavy hero shooter market](http://www.gamasutra.com/view/news/271933/Hero_Shooters_Charting_the_rebirth_of_a_genre.php) as an example and I will identify Overwatchs competitive edge using a method I will detail in this article for you. If you dont know what Overwatch is, It's an online multiplayer first-person shooter video game. It's played in teams of 6 players and each player can choose a hero they want to use for the moment. So, To pick the genres out of this explanation we get:
+
 * FPS
 * Action (derived from FPS genre)
 * Multiplayer

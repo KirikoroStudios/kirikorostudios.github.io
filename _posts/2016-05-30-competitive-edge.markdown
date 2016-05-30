@@ -22,7 +22,7 @@ In this article I'm going to use Overwatch thats in the [competition heavy hero 
 _Hero shooters coming out in or around 2016_
 _Thanks to [onehitclub](http://onehitclub.com/2016/01/06/hero-based-shooters-set-to-rule-2016/) for the image_
 
-Now if we look for games that have these features, using your favorite searchengine, we can identify games like Battleborn, Paragon and Gigantic. But you need to get creative and really find where your competition is at. Maybe they are on consoles? Or mobile? After doing some research I've come up with this list of competitors for Overwatch. For this sake of the article, I am only adding 3 games, but ideally you should compare you game to atleast 10 or more competitors, the more the better!
+Now if we look for games that have these features, using your favorite search engine, we can identify games like Battleborn, Paragon and Gigantic. But you need to get creative and really find where your competition is at. Maybe they are on consoles? Or mobile? After doing some research I've come up with this list of competitors for Overwatch. For this sake of the article, I am only adding 3 games, but ideally you should compare you game to atleast 10 or more competitors, the more the better!
 
 |Features | Overwatch | Battleborn | Paragon | Gigantic |
 |----------|----------|----------|----------|----------|

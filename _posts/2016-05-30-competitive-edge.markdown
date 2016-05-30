@@ -22,7 +22,7 @@ In this article I'm going to use Overwatch thats in the [competition heavy hero 
 _Hero shooters coming out in or around 2016_
 _Thanks to [onehitclub](http://onehitclub.com/2016/01/06/hero-based-shooters-set-to-rule-2016/) for the image_
 
-Now if we look for games that have these features, using your favorite searchengine, we can identify like Battleborn, Paragon and Gigantic. But you need to get creative and really find where your competition is at. Maybe they are on consoles? Or mobile? After doing some research I've come up with this list of competitors for Overwatch. For the sake of the article, I am only adding 3 games, but ideally you should compare you game to atleast 10 or more competitors, the more the better!
+Now if we look for games that have these features, using your favorite searchengine, we can identify games like Battleborn, Paragon and Gigantic. But you need to get creative and really find where your competition is at. Maybe they are on consoles? Or mobile? After doing some research I've come up with this list of competitors for Overwatch. For this sake of the article, I am only adding 3 games, but ideally you should compare you game to atleast 10 or more competitors, the more the better!
 
 |Features | Overwatch | Battleborn | Paragon | Gigantic |
 |----------|----------|----------|----------|----------|
@@ -53,8 +53,7 @@ So after looking at this, I think we can identify Overwatchs competitive advanta
 ![Overwatch - Keeping it simple](/assets/images/Overwatch-Keeping-it-Simple.jpg "Overwatch - Keeping it simple")
 _Overwatch - Keeping it simple_
 
-So now that we know that with Overwatch our competitive edge is our simplicity we can take design and marketing decisions more easily. We know that we dont want to add a deep ingame inventorysystem or add vehicles
- since that would defeat our simplicity. We also know what to tell people when they ask us why they should play Overwatch instead of its competition. We've made things a lot easier for ourselves!
+Now we know that Overwatchs competitive edge is simplicity. We can there therefore take design and marketing decisions guided by this. For example, we know that we dont want to add a deep ingame inventory system or add vehicles since that would defeat the simplicity of Overwatch. We also know what to tell people when they ask us why they should play Overwatch instead of its competition. We've made things a lot easier for ourselves!
 
  I hope I could relay the point that there is value in analysing your competition. And Yes, games is _an art form_, but your company is a business. And you have to take both things in consideration to be a success.
 

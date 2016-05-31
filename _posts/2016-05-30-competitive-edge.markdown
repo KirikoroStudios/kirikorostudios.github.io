@@ -47,6 +47,8 @@ Multipleobjective|No|Yes|Yes|Yes|
 Number of players|6|5|5|5|
 Enemy NPC's|No|Yes|Yes|Yes|
 
+_By MOBA-style leveling I mean In-game/In-match leveling to unlock ultimate abilities like in DOTA. thanks [/u/VanJelly](https://www.reddit.com/user/VanJelly)_
+
 # Compare the games
 So after looking at this, I think we can identify Overwatchs competitive advantage as being simplicity. While Battleborn and Paragon are staying true to their MOBA-roots. And althought it does not show in this table, I found out that Gigantic has done something interesting. While also still staying true to their MOBA-roots they decided to have a gigantic monster instead of having bases that the game revolves around. Maybe they looked at their competition and saw that they needed to stick out more?
 

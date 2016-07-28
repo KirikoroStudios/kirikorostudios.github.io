@@ -12,5 +12,5 @@ in Gothenburg.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://bamsing.com/">Bamsing</a> - Action-adventure game</li>
+	<li><a href="http://flintandcharlie.com/">Flint and Charlie: A Galactic Pickle</a> - A Puzzle-Platformer</ntli>
 </ul>

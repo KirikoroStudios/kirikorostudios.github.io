@@ -12,5 +12,6 @@ in Gothenburg.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://flintandcharlie.com/">Flint and Charlie: A Galactic Pickle</a> - A Puzzle-Platformer</ntli>
+	<li><a href="http://flintandcharlie.com/">Flint and Charlie: A Galactic Pickle</a> - A 3-D platformer</li>
+	<li><a href="http://youbrawl.com/">Youbrawl</a> - Internet stars brawler</li>
 </ul>

@@ -1,0 +1,87 @@
+---
+title: "Youbrawl - The plan"
+layout: post
+date: 2016-11-01
+tag:
+ - Game Development
+ - Youbrawl
+blog: true
+---
+## Hi
+
+This blog will detail the development plan for Youbrawl as it looks today.
+
+### Who's in?
+
+![Boogie2988](/assets/images/boogierock.jpg "Boogie2988")
+<sub>_Boogie is ready to wreck some noobs in Youbrawl._</sub>
+
+There have been a number of developments with Youbrawl during September and October. We have gotten
+a large enough starting field of Youtubers to be satisfied for now. The Youtubers that are currently
+signed up are:
+
+* [Robbaz](https://www.youtube.com/user/Robbaz)
+* [MattShea](https://www.youtube.com/user/MattShea369)
+* [Boogie2988](https://www.youtube.com/user/boogie2988)
+* [Draegast](https://www.youtube.com/user/draegast)
+* [ChilledChaos](https://www.youtube.com/user/CriousGamers)
+* [Cryaotic](https://www.youtube.com/user/ChaoticMonki)
+* [Team Epiphany Jake](https://www.youtube.com/user/Team0Epiphany)
+* [JoblessGarrett](https://www.youtube.com/user/Joblessgamers)
+* [NoahJ456](https://www.youtube.com/user/NoahJ456)
+
+So thank you to all streamers who have shown interest in the project, I realize that this is an opportunity
+that wont come often and I promise I will do my best to bring the streamers and their fans something great.
+
+### What's in?
+
+Since the game has streaming as a big part of it. One of the top priorities will be to make sure that the game
+delivers many situations and moments that will be unexpected, surprising and funny to play as well as watch.
+And another top priority will be to deliver a funny brawling party game.
+
+The game mode feature set that is planned right now is:
+
+ * Singleplayer campaign with several scenarios to play (co-op available)
+ * Online Multiplayer (No matchmaking, only friends invite planned right now)
+ * Local Multiplayer (Support for several controllers)
+ * Co-op And Versus (Play with or against your friends)
+
+As for the gameplay itself. We are taking inspiration from games like Power stone, Last fight and Gang beasts.
+These games are often over-the-top and lend themselves to hilarious moments. We believe that the social aspect
+of the game is the most important one and we will try to cater to that audience first hand when it comes to multiplayer.
+
+### How will it be done?
+
+In november there are a certain set of milestones that I want to acheive with Youbrawl's development:
+
+* Alpha build ready and out to internal testers
+* All current youtuber characters 3D modelling done
+* Exstensive Internal Playtest
+
+The goal here is to provide:
+
+* A core gameplay-feature complete build for testing
+* A proper test of that experience
+* Videos, gifs, screenshots and other material for fans to get excited about
+
+### Feedback
+A big part of posting this plan online is so that you who's reading this can have something to
+give feedback on. I cant tell if this plan is any good until I've heard from the fans.
+
+Let me know if there is some part you need me to change! I'm open to suggestions.
+
+Also I believe that the best content someone looking to play the game could get is an actual gameplay video.
+Right now I think the a gameplay video would be a bit disappointing and I want to change that as soon as possible so I can
+get a video in your hands, fast. But, if you want to see something else dont hesitate to say so and I will try to oblige!
+
+_Disclaimer: All youtubers named have given their explicit permission to be depicted in the game. Everything
+that I write here is planned, things can happen, and therefore everything is subject to change._
+
+### Support us
+The best way to support us is to follow us is to keep up to date and interact with us. Here are some ways to do that:
+
+ - [Youbrawl Newsletter](https://docs.google.com/forms/d/1j3-J50GTJ5PljR0rjbtpju0v89DcxunP71MaDkPE0eQ/viewform?edit_requested=true)
+ - [Youbrawl Subreddit](https://www.reddit.com/r/Youbrawl/)
+ - [Facebook](http://Facebook.com/kirikorostudios)
+ - [Twitter](http://twitter.com/happypwn)
+ - [RSS](http://kirikoro.com/feed.xml)

@@ -13,5 +13,5 @@ in Gothenburg.</p>
 
 <ul>
 <li><a href="http://youbrawl.com/">Youbrawl</a> - a goofy brawler</li>
-	<li><a href="http://flintandcharlie.com/">Flint and Charlie: A Galactic Pickle</a> - A 3-D platformer</li>
+<li><a href="http://joydrive.games">Joy Drive</a> - Take a Joy Drive and create some gore tornados!</li>
 </ul>
